@@ -5,7 +5,7 @@ This is a skin to monitor the battery level of your Logitech G933 wireless heads
 Wyse: https://github.com/Wyse-/G930BatteryReader
 
 How to use:
-1. Unzip G933.rar to your rainmeter folder.
+1. Download and unzip G933.rar to your rainmeter folder.
 2. Add autostart in the G933 folder to your startup programs list.
 3. Load the skin on rainmeter.
 4. Enjoy!
