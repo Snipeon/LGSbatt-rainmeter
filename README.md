@@ -18,7 +18,7 @@ Cheat Engine http://www.cheatengine.org/
 **Supported devices:**
 1. G933 Artemis Spectrum (Currently the only confirmed supported device as I only have this. Anyone who wants to test/modify the program with their device, feel free to do so)
 
-**How to use:**
+## **How to use:**
 1. Download and unzip LGSbatt.rar to your rainmeter folder.
 2. Download Cheat Engine (Your antivirus may detect it as a virus, don't worry, Cheat Engine is not a virus)
 3. Make sure you have LGS running.
@@ -30,7 +30,7 @@ Cheat Engine http://www.cheatengine.org/
 9. Restart your computer and enjoy!
 
 
-**Cheat Engine Tutorial:**  
+## **Cheat Engine Tutorial:**  
 
 To find out the type of battery values to use with Cheat Engine, consult the device list below.  
 
@@ -71,7 +71,7 @@ This would add it to the list in the main Cheat Engine program.
 ![Alt Text](https://github.com/Snipeon/G933-rainmeter/blob/master/Pics/Untitled15.png)  
 
 
-**Device List:**
+## **Device List:**
 - G933 Artemis Spectrum
   - For the G933, the battery value is stored on LGS as an integer value from 0 to 100. Basically, what percent battery you see, it is stored exactly as that value. 
   
