@@ -33,7 +33,7 @@ Cheat Engine http://www.cheatengine.org/
 - G933 Artemis Spectrum
   - For the G933, the battery value is stored on LGS as an integer value from 0 to 100. Basically, what percent battery you see, it is stored exactly as that value. Here's how to grab the addres for that value with Cheat Engine.
   1. When you run Cheat Engine, you would see a window like this.
-  ![Alt Text](https://snipeon.github.com/pics/Untitled.png)
+  ![Alt Text](https://github.com/Snipeon/G933-rainmeter/blob/master/Pics/Untitled.png)
   2. Click on the Select process to open button.
   ![Alt Text](https://snipeon.github.com/pics/Untitled1.png)
   3. Select LCore.exe from the list.
