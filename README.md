@@ -1,6 +1,6 @@
 # G933-rainmeter
 
-## Warning: Basic Cheat Engine Knowledge highly recommended.
+## Warning: Basic Cheat Engine knowledge highly recommended.
 
 **Screenshot**  
 ![Screenshot](https://github.com/Snipeon/G933-rainmeter/blob/master/Pics/screenshot.png)  
