@@ -1,6 +1,6 @@
 # LGS Battery Rainmeter
 
-## Warning: Basic Cheat Engine and Rainmeter knowledge highly recommended.
+**Warning: Basic Cheat Engine and Rainmeter knowledge highly recommended.**
 
 **Screenshot**  
 ![Screenshot](https://github.com/Snipeon/G933-rainmeter/blob/master/Pics/screenshot.png)  
