@@ -1,9 +1,9 @@
 # G933-rainmeter
 
-## TUTORIAL STILL INCOMPLETE, PLEASE BEAR WITH ME.
+## Warning: Basic Cheat Engine Knowledge highly recommended.
 
-## Screenshot
-![Screenshot](https://github.com/Snipeon/G933-rainmeter/blob/master/Pics/screenshot.png)
+**Screenshot**  
+![Screenshot](https://github.com/Snipeon/G933-rainmeter/blob/master/Pics/screenshot.png)  
 
 This is a skin to monitor the battery level of your Logitech device through Logitech Gaming Software, however, you would have to use Cheat Engine to pull the base address and pointer offsets of the battery value. Refer to the tutorial below.
 
