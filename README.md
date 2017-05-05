@@ -1,4 +1,4 @@
-# G933-rainmeter
+# LGS Battery Rainmeter
 
 ## Warning: Basic Cheat Engine and Rainmeter knowledge highly recommended.
 
