@@ -67,7 +67,7 @@ Now from the remaining results, find the one with the lowest number of pointer p
 This would add it to the list in the main Cheat Engine program.  
 ![Alt Text](https://github.com/Snipeon/G933-rainmeter/blob/master/Pics/Untitled14.png)  
 13. Turn off your device. The value of the pointer should become 0. Then turn your device back on. You should see the pointer change and the value should stil reflect your battery value. If that happens, you have got a working base address and offsets which we can work with.
-14. The base address would consist of the module base address("LCore.exe") and an offset. The module base address is grabbed automatically in the main program, however you would have to provide the offsets. Now go back up to the How to use and follow the remaining instructions!  
+14. The base address would consist of the module base address("LCore.exe") and an offset. The module base address is grabbed automatically in the main program, however you would have to provide the offsets. Take note the offsets are all in hexadecimal value, so key it in with all the letters into my offsets program. If there are none, don't worry, my program would automatically read the values as hex values. Now go back up to the How to use section and follow the remaining instructions!  
 ![Alt Text](https://github.com/Snipeon/G933-rainmeter/blob/master/Pics/Untitled15.png)  
 
 
