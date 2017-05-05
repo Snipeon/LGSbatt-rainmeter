@@ -1,5 +1,7 @@
 # G933-rainmeter
 
+TUTORIAL STILL INCOMPLETE, PLEASE BEAR WITH ME.
+
 This is a skin to monitor the battery level of your Logitech device through Logitech Gaming Software, however, you would have to use Cheat Engine to pull the base address and pointer offsets of the battery value. Refer to the tutorial below.
 
 Many thanks to Wyse for his G930 rainmeter skin. I took his skin and modified it so that it can work with LGS. 
