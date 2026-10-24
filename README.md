@@ -1,11 +1,11 @@
 # LGS Battery Rainmeter
 
-**This skin is OLD. Geez. Do any of you still use it? Oh well, here's the modern version:**  
-**https://github.com/Snipeon/Logitech-battery-widget**  
-**Yes it's vibe coded. I'm too lazy to write all the code. Yes it don't need the tedious work through Cheat Engine. Rejoice.**  
-**It don't even need LGS(if you still have it. Why are you still running LGS in 2026?) or GHUB to even be installed.**  
-**Just plug your wireless device in, and go hog wild. Hopefully it should work with all Logitech wireless stuff.**  
-**Enjoy~**   
+## This skin is OLD. Geez. Do any of you still use it? Oh well, here's the modern version:  
+## https://github.com/Snipeon/Logitech-battery-widget  
+## Yes it's vibe coded. I'm too lazy to write all the code. Yes it don't need the tedious work through Cheat Engine. Rejoice.  
+## It don't even need LGS(if you still have it. Why are you still running LGS in 2026?) or GHUB to even be installed.  
+## Just plug your wireless device in, and go hog wild. Hopefully it should work with all Logitech wireless stuff.  
+##Enjoy~   
 
 **Warning: Basic Cheat Engine and Rainmeter knowledge highly recommended.**
 
