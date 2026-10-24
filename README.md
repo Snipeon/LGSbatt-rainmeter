@@ -1,6 +1,6 @@
 # LGS Battery Rainmeter
 
-##Update 24/10/2026:  
+## Update 24/10/2026:  
 
 **This skin is OLD. Geez. Do any of you still use it? Oh well, here's the modern version:**  
 **https://github.com/Snipeon/Logitech-battery-widget**  
