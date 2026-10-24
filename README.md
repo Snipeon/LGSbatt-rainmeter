@@ -1,5 +1,7 @@
 # LGS Battery Rainmeter
 
+##Update 24/10/2026:  
+
 **This skin is OLD. Geez. Do any of you still use it? Oh well, here's the modern version:**  
 **https://github.com/Snipeon/Logitech-battery-widget**  
 **Yes it's vibe coded. I'm too lazy to write all the code. Yes it don't need the tedious work through Cheat Engine. Rejoice.**  
